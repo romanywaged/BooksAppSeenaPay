@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BooksApp-SeenaPay</string>
+    <string name="greeting">Good Morning</string>
+    <string name="date">23–03–2023</string>
+    <string name="home">Home</string>
+    <string name="progressDescription">Progress Description</string>
+    <string name="bookImageDescription">Book Image Description</string>
+    <string name="BlackAndWhite"><![CDATA[Black & White]]></string>
+    <string name="publisher">Publisher Name</string>
+    <string name="publishedDate">20 - 03 -2023</string>
+    <string name="pleaseWait">Please Wait</string>
+    <string name="noDataFound">No Data Found</string>
+    <string name="bookDetails">Book Details</string>
+    <string name="author">Author</string>
+    <string name="summary">Summary</string>
+    <string name="datDetails">Date</string>
+    <string name="pleaseCheckInternet">Please Check Internet Connection</string>
+    <string name="pleaseEnableDataOrWifi">Please Enable Data Or Wifi</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16c2d5</color>
+    <color name="colorPrimaryDark">#00b0ff</color>
+    <color name="colorAccent">#00b0ff</color>
+    <color name="tarns_blue">#5600B0FF</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="bg_card">#f6f6f6</color>
+    <color name="item_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+    <color name="black">#000000</color>
+    <color name="card_bg_dark">#0e0e0e</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#ADADAD</color>
+    <color name="yellow">#ffb330</color>
+    <color name="NewBG">#fece2f</color>
+    <color name="separator">#0B3467</color>
+    <color name="blue">#033B98</color>
+    <color name="test_blue">#CB023D96</color>
+    <color name="secondary_blue">#517FEE</color>
+    <color name="purple">#7c4dff</color>
+    <color name="pink">#ff4081</color>
+    <color name="green">#00bfa5</color>
+    <color name="back_popup">#2f333f</color>
+    <color name="gray_trans">#345E5F61</color>
+    <color name="dark_red">#990000</color>
+    <color name="view_color">#4CAF50</color>
+    <color name="splash_bg">#7BB2BE</color>
+    <color name="edit_text_bg_color">#f6f6f6</color>
+    <color name="edit_text_bg_border">#d6d6d6</color>
+    <color name="bold_gray_text">#898a8f</color>
+    <color name="semi_black">#3f3f3f</color>
+    <color name="light_red">#f59585</color>
+    <color name="red">#F82A07</color>
+    <color name="spinner_hint">#adb3a9</color>
+    <color name="light_black">#494949</color>
+    <color name="view_gray">#809ca299</color>
+    <color name="hint_text">#9CA299</color>
+    <color name="trans_color">#80D3E1E1</color>
+    <color name="tot_back">#cccccc</color>
+    <color name="darkerBlue">#1C62B8</color>
+    <color name="purple_200">#4E1313</color>
+    <color name="purple_500">#301B1B</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="toolbarColor">#033B98</color>
+    <color name="statusColor">#ffffff</color>
+    <color name="file_management_color">#0E68FF</color>
+    <color name="edit_txt_bg_color">#14000000</color>
+    <color name="splash_color">#00FEFE</color>
+    <color name="light_grey">#F1F1F1</color>
+    <color name="teal">#0F9AFC</color>
+
+
+    <color name="card_bg">#d8eaff</color>
+    <color name="second_text_color">#5F5F5F</color>
+    <color name="background">#ffffff</color>
+    <color name="text_color">#000000</color>
+    <color name="tintColor">#dfe3e6</color>
+    <color name="newGray">#E9F3FA</color>
+    <color name="borders">#ffffff</color>
+    <color name="app_txt_color">#014576</color>
+    <color name="app_secondary_txt_color">#1CBBA3</color>
+    <color name="gray_txt">#7A8186</color>
+
+    <color name="error_bg">#DD3F45</color>
+    <color name="secondColor">#804895</color>
+    <color name="login_color">#0E68FF</color>
+
+</resources>
